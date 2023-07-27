@@ -1,0 +1,8 @@
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-ConsoleApp\bin\Debug\MassMailling-ConsoleApp.exe.config
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-ConsoleApp\bin\Debug\MassMailling-ConsoleApp.exe
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-ConsoleApp\bin\Debug\MassMailling-ConsoleApp.pdb
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-ConsoleApp\obj\Debug\MassMailling-ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-ConsoleApp\obj\Debug\MassMailling-ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-ConsoleApp\obj\Debug\MassMailling-ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-ConsoleApp\obj\Debug\MassMailling-ConsoleApp.exe
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-ConsoleApp\obj\Debug\MassMailling-ConsoleApp.pdb

@@ -1,0 +1,6 @@
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-Entities\bin\Debug\MassMailling-Entities.dll
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-Entities\bin\Debug\MassMailling-Entities.pdb
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-Entities\obj\Debug\MassMailling-Entities.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-Entities\obj\Debug\MassMailling-Entities.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-Entities\obj\Debug\MassMailling-Entities.dll
+C:\Users\lenovo\source\repos\MassMailling\MassMailling\MassMailling-Entities\obj\Debug\MassMailling-Entities.pdb

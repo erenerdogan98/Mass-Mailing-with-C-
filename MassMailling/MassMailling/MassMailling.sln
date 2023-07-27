@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMailling-Core", "MassMailling-Core\MassMailling-Core.csproj", "{FEA970CE-5358-4518-A7CC-32527903427B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMailling-Entities", "MassMailling-Entities\MassMailling-Entities.csproj", "{A0538A46-AD7E-4970-AF58-668533F55826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMailling-ConsoleApp", "MassMailling-ConsoleApp\MassMailling-ConsoleApp.csproj", "{1BD8679A-5BBF-47A9-8B19-6B04FEE56D21}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMailing-UI-View", "MassMailing-UI-View\MassMailing-UI-View.csproj", "{A905D271-F17E-4EA1-B0E0-BBA2B122044B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMailling-WinService", "MassMailling-WinService\MassMailling-WinService.csproj", "{2EBE0582-AF4D-4382-8CF1-074F4C47CB92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassMailling-WebApp", "MassMailling-WebApp\MassMailling-WebApp.csproj", "{71823019-FE6D-4F51-B8D6-75998BFA9741}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEA970CE-5358-4518-A7CC-32527903427B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEA970CE-5358-4518-A7CC-32527903427B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEA970CE-5358-4518-A7CC-32527903427B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEA970CE-5358-4518-A7CC-32527903427B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0538A46-AD7E-4970-AF58-668533F55826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0538A46-AD7E-4970-AF58-668533F55826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0538A46-AD7E-4970-AF58-668533F55826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0538A46-AD7E-4970-AF58-668533F55826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BD8679A-5BBF-47A9-8B19-6B04FEE56D21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD8679A-5BBF-47A9-8B19-6B04FEE56D21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD8679A-5BBF-47A9-8B19-6B04FEE56D21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD8679A-5BBF-47A9-8B19-6B04FEE56D21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A905D271-F17E-4EA1-B0E0-BBA2B122044B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A905D271-F17E-4EA1-B0E0-BBA2B122044B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A905D271-F17E-4EA1-B0E0-BBA2B122044B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A905D271-F17E-4EA1-B0E0-BBA2B122044B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EBE0582-AF4D-4382-8CF1-074F4C47CB92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EBE0582-AF4D-4382-8CF1-074F4C47CB92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EBE0582-AF4D-4382-8CF1-074F4C47CB92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EBE0582-AF4D-4382-8CF1-074F4C47CB92}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71823019-FE6D-4F51-B8D6-75998BFA9741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71823019-FE6D-4F51-B8D6-75998BFA9741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71823019-FE6D-4F51-B8D6-75998BFA9741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71823019-FE6D-4F51-B8D6-75998BFA9741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E60FDF55-7713-4136-8CA1-0708269E9127}
+	EndGlobalSection
+EndGlobal
